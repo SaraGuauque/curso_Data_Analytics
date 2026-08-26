@@ -13,7 +13,6 @@ Repositorio académico en construcción que reúne los talleres, laboratorios, a
 | Herramientas principales | Python, Google Colab, Jupyter Notebook y GitHub |
 | Estado del repositorio | En actualización continua |
 | Última actualización | Agosto de 2026 |
-| Última actualización | Agosto de 2026 |
 
 ## Objetivo del repositorio
 
@@ -207,12 +206,12 @@ Plantilla para una nueva actividad:
 
 **Responsable del repositorio:** Sara Valentina Guauque Zarrate.
 
-El Laboratorio 2 fue desarrollado con la participación de:
+Los laboratorios han sido desarrollados  con la participación de:
 
 - Shady Alejandra Garay Rodriguez.
 - Sergio David Vargas Garzón.
 
-Los colaboradores de futuras actividades deberán agregarse en esta sección y en el README específico de la entrega correspondiente.
+
 
 ## Alcance académico
 
