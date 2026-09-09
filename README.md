@@ -173,35 +173,6 @@ SQLite forma parte de la biblioteca estándar de Python y no requiere una instal
 - Convertir los hallazgos en recomendaciones concretas, medibles y priorizadas.
 - Proteger la información personal y publicar únicamente datos académicos, sintéticos, autorizados o anonimizados.
 
-## Cómo actualizar este README
-
-Cuando se agregue una nueva actividad al repositorio:
-
-1. Crear una carpeta con un nombre uniforme, por ejemplo **Lab_3-Semana_6**.
-2. Incluir dentro de ella el notebook, las bases permitidas, el informe y un README específico.
-3. Agregar una nueva fila en la tabla **Entregas realizadas**.
-4. Crear una subsección en **Descripción de las actividades** con el objetivo, los procesos y los principales resultados.
-5. Actualizar la estructura del repositorio, las tecnologías utilizadas y la fecha de actualización.
-6. Comprobar los enlaces y ejecutar nuevamente todos los notebooks antes de publicar.
-
-Plantilla para una nueva actividad:
-
-    ### N. Nombre de la actividad
-
-    Breve descripción del problema y del propósito del análisis.
-
-    **Procesos realizados:**
-
-    - Proceso 1.
-    - Proceso 2.
-    - Proceso 3.
-
-    **Resultados destacados:**
-
-    - Resultado cuantitativo principal.
-    - Interpretación más importante.
-    - Recomendación propuesta.
-
 ## Autoría y colaboración
 
 **Responsable del repositorio:** Sara Valentina Guauque Zarrate.
